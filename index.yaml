@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-13T05:16:12.377316775-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 6cdb127f5602f43ba8e74b275f111eb5311cccb08bf3bf571eb8249f9b9da6fc
+    name: app1
+    urls:
+    - https://github.com/AllwynThirupathi/helmchartrepo/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-13T05:16:12.544459832-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 4e2797bbfab5c80b91abf0531c10245cc966d46114c38ae7807d7690c335a810
+    name: app2
+    urls:
+    - https://github.com/AllwynThirupathi/helmchartrepo/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-13T05:16:11.997204342-04:00"
